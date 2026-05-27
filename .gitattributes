@@ -1,5 +1,10 @@
 Heracleum[[:space:]]mantegazzianum.csv filter=lfs diff=lfs merge=lfs -text
 gadm41_NLD.gpkg filter=lfs diff=lfs merge=lfs -text
 Bodemkaart50000_v2025/* filter=lfs diff=lfs merge=lfs -text
+Bodemkaart50000_v2025/Bodemkaart50000_v2025.cst filter=lfs diff=lfs merge=lfs -text
+Bodemkaart50000_v2025/Bodemkaart50000_v2025.dbf filter=lfs diff=lfs merge=lfs -text
+Bodemkaart50000_v2025/Bodemkaart50000_v2025.prj filter=lfs diff=lfs merge=lfs -text
+Bodemkaart50000_v2025/Bodemkaart50000_v2025.shp filter=lfs diff=lfs merge=lfs -text
+Bodemkaart50000_v2025/Bodemkaart50000_v2025.shx filter=lfs diff=lfs merge=lfs -text
 *.shp filter=lfs diff=lfs merge=lfs -text
 *.dbf filter=lfs diff=lfs merge=lfs -text
