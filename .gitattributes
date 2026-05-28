@@ -8,3 +8,4 @@ Bodemkaart50000_v2025/Bodemkaart50000_v2025.shp filter=lfs diff=lfs merge=lfs -t
 Bodemkaart50000_v2025/Bodemkaart50000_v2025.shx filter=lfs diff=lfs merge=lfs -text
 *.shp filter=lfs diff=lfs merge=lfs -text
 *.dbf filter=lfs diff=lfs merge=lfs -text
+habitats_cbs_2022.csv filter=lfs diff=lfs merge=lfs -text
